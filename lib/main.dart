@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Dice Roll Game',
+      title: 'Dice Roll Game ',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
